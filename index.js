@@ -129,7 +129,7 @@ class CountDown extends React.Component {
           {fontSize: size},
           digitTxtStyle,
         ]}>
-          {d}
+          {d}{' '}
         </Text>
       </View>
     );
